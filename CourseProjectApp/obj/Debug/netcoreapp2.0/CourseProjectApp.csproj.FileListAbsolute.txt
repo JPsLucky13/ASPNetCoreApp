@@ -1,0 +1,8 @@
+C:\Users\Jean-Paul\source\repos\CourseProjectApp\CourseProjectApp\bin\Debug\netcoreapp2.0\CourseProjectApp.deps.json
+C:\Users\Jean-Paul\source\repos\CourseProjectApp\CourseProjectApp\bin\Debug\netcoreapp2.0\CourseProjectApp.runtimeconfig.json
+C:\Users\Jean-Paul\source\repos\CourseProjectApp\CourseProjectApp\bin\Debug\netcoreapp2.0\CourseProjectApp.runtimeconfig.dev.json
+C:\Users\Jean-Paul\source\repos\CourseProjectApp\CourseProjectApp\bin\Debug\netcoreapp2.0\CourseProjectApp.dll
+C:\Users\Jean-Paul\source\repos\CourseProjectApp\CourseProjectApp\obj\Debug\netcoreapp2.0\CourseProjectApp.csprojResolveAssemblyReference.cache
+C:\Users\Jean-Paul\source\repos\CourseProjectApp\CourseProjectApp\obj\Debug\netcoreapp2.0\CourseProjectApp.csproj.CoreCompileInputs.cache
+C:\Users\Jean-Paul\source\repos\CourseProjectApp\CourseProjectApp\obj\Debug\netcoreapp2.0\CourseProjectApp.AssemblyInfoInputs.cache
+C:\Users\Jean-Paul\source\repos\CourseProjectApp\CourseProjectApp\obj\Debug\netcoreapp2.0\CourseProjectApp.AssemblyInfo.cs

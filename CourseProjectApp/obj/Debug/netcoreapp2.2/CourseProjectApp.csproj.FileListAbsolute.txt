@@ -1,0 +1,11 @@
+C:\Users\Jean-Paul\source\repos\CourseProjectApp\CourseProjectApp\obj\Debug\netcoreapp2.2\CourseProjectApp.csprojResolveAssemblyReference.cache
+C:\Users\Jean-Paul\source\repos\CourseProjectApp\CourseProjectApp\obj\Debug\netcoreapp2.2\CourseProjectApp.csproj.CoreCompileInputs.cache
+C:\Users\Jean-Paul\source\repos\CourseProjectApp\CourseProjectApp\obj\Debug\netcoreapp2.2\CourseProjectApp.AssemblyInfoInputs.cache
+C:\Users\Jean-Paul\source\repos\CourseProjectApp\CourseProjectApp\obj\Debug\netcoreapp2.2\CourseProjectApp.AssemblyInfo.cs
+C:\Users\Jean-Paul\source\repos\CourseProjectApp\CourseProjectApp\bin\Debug\netcoreapp2.2\CourseProjectApp.deps.json
+C:\Users\Jean-Paul\source\repos\CourseProjectApp\CourseProjectApp\bin\Debug\netcoreapp2.2\CourseProjectApp.runtimeconfig.json
+C:\Users\Jean-Paul\source\repos\CourseProjectApp\CourseProjectApp\bin\Debug\netcoreapp2.2\CourseProjectApp.runtimeconfig.dev.json
+C:\Users\Jean-Paul\source\repos\CourseProjectApp\CourseProjectApp\bin\Debug\netcoreapp2.2\CourseProjectApp.dll
+C:\Users\Jean-Paul\source\repos\CourseProjectApp\CourseProjectApp\bin\Debug\netcoreapp2.2\CourseProjectApp.pdb
+C:\Users\Jean-Paul\source\repos\CourseProjectApp\CourseProjectApp\obj\Debug\netcoreapp2.2\CourseProjectApp.dll
+C:\Users\Jean-Paul\source\repos\CourseProjectApp\CourseProjectApp\obj\Debug\netcoreapp2.2\CourseProjectApp.pdb
